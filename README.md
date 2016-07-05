@@ -1,2 +1,2 @@
 # MyGame
-My Internet Games
+My Internet Games with Technologies
